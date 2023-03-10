@@ -1,0 +1,22 @@
+{
+  "name": "uiibevy/uii-friends",
+  "description": "A Laravel package that brings social media-like features like following, blocking and filtering content based on following or blocked models.",
+  "type": "library",
+  "require": {
+    "laravel/framework": "^9.0|^10.0",
+    "nesbot/carbon": "^2.63"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Uiibevy\\Friends\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Hicham SADDEK",
+      "email": "h.saddek@serrahub.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
